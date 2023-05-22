@@ -1,2 +1,4 @@
-# Web-Development
-This repository contains my code on html/css/javascript 
+# QR-CODE
+
+Don't try to scan it. It does not work. It's just a bunch of HTML and CSS.
+
